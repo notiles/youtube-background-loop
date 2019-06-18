@@ -1,3 +1,17 @@
+body {
+  margin: 0;
+}
+
+iframe {
+  top: -27%;
+  left: 0px;
+  height: 154%;
+  width: 100%;
+  opacity: 1;
+  display: block;
+  position: absolute;
+}
+
 #background-video {
   position: absolute;
   width: 100%;
